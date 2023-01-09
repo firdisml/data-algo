@@ -5,6 +5,7 @@ function capitalize(string){
     }
 
     console.log(string.charAt(0).toUpperCase() + string.substring(1,3) + string.charAt(3).toUpperCase() + string.substring(4))
+    console.log(2 < 2)
 }
 
 capitalize("kualalumpur")
